@@ -1,0 +1,5 @@
+{
+  "name": "WebP to PNG Converter",
+  "description": "A simple, fast, and secure drag-and-drop tool to convert WebP images to PNG format instantly in your browser.",
+  "requestFramePermissions": []
+}
